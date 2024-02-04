@@ -49,7 +49,7 @@ function spans($list) {
 <section id="wrapper">
   <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=html5demoscom" id="_carbonads_js"></script>
     <header>
-      <h1><abbr>HTML</abbr> 5 Demos and Examples</h1>
+      <h1><abbr>HTML</abbr> Static web-app Matthias/h1>
     </header>
     <article>
       <p><abbr>HTML</abbr> 5 experimentation and demos I've hacked together. Click on the browser support icon or the technology tag to filter the demos (the filter is an <code>OR</code> filter).</p>
